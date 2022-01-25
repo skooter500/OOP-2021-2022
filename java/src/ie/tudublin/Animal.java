@@ -2,25 +2,26 @@ package ie.tudublin;
 
 public class Animal
 {
-    private String name;
 
-    public void setName(String name)
+    public String toString()
     {
-        this.name = name;
+        return name;
     }
+
+    private String name;
 
     public String getName()
     {
         return name;
     }
 
-    public Animal(String name)
+    public void setName(String name)
     {
         this.name = name;
     }
 
-    public String toString()
+    public Animal(String name)
     {
-        return name;
+        this.name = name;
     }
 }

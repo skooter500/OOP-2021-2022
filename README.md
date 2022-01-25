@@ -111,10 +111,8 @@ You should see
 
 ```
 Hello world
-Misty
-TopCat
-Garfield
-Garfield
+Tara
+Tara
 ```
 
 On the terminal. If you do, then congratulations! You have successfully compiled and run your first Java program. Now create a branch to store your changes today. Best not to modify the master branch so you can keep it up to date with my changes:
