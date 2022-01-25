@@ -1,30 +1,32 @@
 package ie.tudublin;
 
-public class Cat {
-
-    private Integer numLives = 9;
-    private String name;
-
-    public Cat(String name)
+public class Main
+{
+    public static void main(String[] args)
     {
-        this.name = name;
-    }
+        System.out.println("Hello world");
 
-    public void kill()
-    {
-        this.numLives = this.numLives -1;
+        Animal misty = new Animal("Misty");
+        Animal lucy = new Animal("Lucy");
 
-        if (this.numLives > 0) {
-            System.out.println("Ouch!");
+        lucy = misty;
+        misty.setName("Tara");
+
+
+        System.out.println(misty);
+        System.out.println(lucy);
+
+        Cat ginger = new Cat("Ginger");
+
+        System.out.println(ginger);
+
+        // to show code works -- if less than 0 print dead
+        for (int i = 0; i < 9; i++) {
+            ginger.kill();
         }
-        else{
-            System.out.println("Dead");
-        }
-    }
 
-    public String toString()
-    {
-        return name;
+        // Tara Misty
+        // Tara Tara
+        
     }
-    
 }
