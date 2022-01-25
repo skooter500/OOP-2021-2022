@@ -162,7 +162,7 @@ If you are done check out the references for classes, packages, constructors and
 Also! [Read the first three chapters of the git manual](https://git-scm.com/docs/user-manual).
 
 ## Lecture
-- [Introduction slides](https://drive.google.com/open?id=1wdMcXJzaRBCSm4Ouj4_ZjWj9Mh292fQB)
+- [Introduction slides](https://tudublin-my.sharepoint.com/:p:/g/personal/bryan_duggan_tudublin_ie/EYXKcGlJFllBoLfJ_GjdH8ABu2OQCKyRsXuqlPqb3yXMtA?e=V9lhl6)
 - [hello world](java/src/ie/tudublin)
 - [Classes](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
 - [Packages](https://docs.oracle.com/javase/tutorial/java/package/packages.html)
