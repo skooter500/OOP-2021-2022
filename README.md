@@ -47,6 +47,7 @@ Resources
 
 ## Tutorial
 - [Coding Bat](https://codingbat.com/)
+- [Recording of the tutorial](https://tudublin-my.sharepoint.com/personal/bryan_duggan_tudublin_ie/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbryan%5Fduggan%5Ftudublin%5Fie%2FDocuments%2FRecordings%2FOOP%20Class%2D20220127%5F090856%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fbryan%5Fduggan%5Ftudublin%5Fie%2FDocuments%2FRecordings)
 
 ## Lab
 ## Learning outcomes
@@ -105,7 +106,7 @@ git push
 
 ## Part 3 - Compiling & running Java
 
-Open the OOP-2020-2021 folder in Visual Studio Code. You can run your program by choosing Run | Start Debugger. *Important for users of the Lab computers* In the labs you should use the shell scripts ```compile.sh``` and ```run.sh``` located in the Java folder to compile and run your code. You can run these from the Bash. 
+Open the OOP-2021-2022 folder in Visual Studio Code. You can run your program by choosing Run | Start Debugger. *Important for users of the Lab computers* In the labs you should use the shell scripts ```compile.sh``` and ```run.sh``` located in the Java folder to compile and run your code. You can run these from the Bash. 
 
 You should see
 
@@ -162,7 +163,7 @@ If you are done check out the references for classes, packages, constructors and
 Also! [Read the first three chapters of the git manual](https://git-scm.com/docs/user-manual).
 
 ## Lecture
-- [Introduction slides](https://drive.google.com/open?id=1wdMcXJzaRBCSm4Ouj4_ZjWj9Mh292fQB)
+- [Introduction slides](https://tudublin-my.sharepoint.com/:p:/g/personal/bryan_duggan_tudublin_ie/EYXKcGlJFllBoLfJ_GjdH8ABu2OQCKyRsXuqlPqb3yXMtA?e=V9lhl6)
 - [hello world](java/src/ie/tudublin)
 - [Classes](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
 - [Packages](https://docs.oracle.com/javase/tutorial/java/package/packages.html)
