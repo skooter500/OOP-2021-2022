@@ -41,6 +41,9 @@ Resources
 
 # Week 2
 
+## Lecture
+- [Video of Monday's class]()
+
 ## Lab
 
 ## Learning Outcomes
