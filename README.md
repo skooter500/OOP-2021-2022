@@ -42,7 +42,7 @@ Resources
 # Week 2
 
 ## Lecture
-- [Video of Monday's class]()
+- [Video of Monday's class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EZC_GTlzu_NNoSCF6yvaZ7sB5qwT4X8Wi_Zodj0Fmj8p0Q?e=9By4UN)
 
 ## Lab
 
