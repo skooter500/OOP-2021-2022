@@ -1,15 +1,12 @@
 package ie.tudublin;
 
-public class Main
-{
-    public static void helloProcessing()
-	{
-		String[] a = {"MAIN"};
-        processing.core.PApplet.runSketch( a, new HelloProcessing());
+public class Main {
+    public static void BugZap() {
+        String[] a = { "MAIN" };
+        processing.core.PApplet.runSketch(a, new BugZap());
     }
 
-    public void cat()
-    {
+    public void cat() {
         System.out.println("Hello world");
 
         Animal misty = new Animal("Misty");
@@ -23,19 +20,18 @@ public class Main
 
         Cat cat = new Cat("Ginger");
 
-        while(cat.getNumLives() > 0)
-        {
+        while (cat.getNumLives() > 0) {
             cat.kill();
         }
         cat.kill();
 
     }
-    public static void main(String[] args)
-    {
-        helloProcessing();
+
+    public static void main(String[] args) {
+        BugZap();
 
         // Tara Misty
         // Tara Tara
-        
+
     }
 }
