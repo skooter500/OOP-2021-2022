@@ -16,7 +16,6 @@ public class HelloProcessing extends PApplet
 
 		
 	}
-
 	public void draw()
 	{	
 	
