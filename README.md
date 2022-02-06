@@ -41,6 +41,9 @@ Resources
 
 # Week 2
 
+## Tutorial
+- [BugZap Solution Video](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EcBPzbh_BABHuhy-1Ep8RdYB8YPppi9-veboOAvVpN9TOg?e=64fMfu)
+
 ## Lecture
 - [Video of Monday's class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EZC_GTlzu_NNoSCF6yvaZ7sB5qwT4X8Wi_Zodj0Fmj8p0Q?e=9By4UN)
 
