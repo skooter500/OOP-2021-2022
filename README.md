@@ -140,7 +140,9 @@ Ok you should now have the basics working. See if you can figure out how to chec
 
 ## Tutorial
 - [Coding Bat](https://codingbat.com/)
-- [Recording of the tutorial](https://tudublin-my.sharepoint.com/personal/bryan_duggan_tudublin_ie/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbryan%5Fduggan%5Ftudublin%5Fie%2FDocuments%2FRecordings%2FOOP%20Class%2D20220127%5F090856%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fbryan%5Fduggan%5Ftudublin%5Fie%2FDocuments%2FRecordings)
+- [Recording of the tutorial](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/Ef4FQNmY0_RPhfThsQXdeA4B2KK_au45dNApXjVrfJkbZQ?e=JFDIGG)
+
+
 
 ## Lab
 ## Learning outcomes
