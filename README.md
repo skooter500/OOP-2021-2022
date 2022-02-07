@@ -47,6 +47,7 @@ Resources
 - The if statement
 - While loops
 - For loops
+- [Video of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EVR0aklCcWhDqiFV5czKiRgBviepYTmsqh4ya2zXNV01rw?e=aiexCW)
 
 ## Procedural drawing exercises:
 
