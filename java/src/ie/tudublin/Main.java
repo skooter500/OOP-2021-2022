@@ -3,9 +3,6 @@ package ie.tudublin;
 public class Main
 {
 
-<<<<<<< HEAD
-    public static void main()
-=======
     public static void bugZap()
 	{
 		String[] a = {"MAIN"};
@@ -19,7 +16,6 @@ public class Main
     }
 
     public void cat()
->>>>>>> 32791f4ad6e914917f1724d84f8fb44506699232
     {
         System.out.println("Hello world");
 
@@ -41,9 +37,6 @@ public class Main
         }
         cat.kill();
 
-<<<<<<< HEAD
-    }   
-=======
     }
     public static void main(String[] args)
     {
@@ -53,5 +46,4 @@ public class Main
         // Tara Tara
         
     }
->>>>>>> 32791f4ad6e914917f1724d84f8fb44506699232
 }
