@@ -2,13 +2,8 @@ package ie.tudublin;
 
 public class Main
 {
-    public static void helloProcessing()
-	{
-		String[] a = {"MAIN"};
-        processing.core.PApplet.runSketch( a, new HelloProcessing());
-    }
 
-    public void cat()
+    public static void main()
     {
         System.out.println("Hello world");
 
@@ -30,13 +25,5 @@ public class Main
         }
         cat.kill();
 
-    }
-    public static void main(String[] args)
-    {
-        helloProcessing();
-
-        // Tara Misty
-        // Tara Tara
-        
-    }
+    }   
 }
