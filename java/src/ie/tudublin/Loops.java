@@ -66,7 +66,17 @@ public class Loops extends PApplet
 				}
 				break;
 			case 1:
-			
+				background(0);
+				int squares = (int) (mouseX / 20.0f); // Mouse position determines size of squares
+				float h = width / (float) squares; // Number of squares going across
+				for (int i=0; i<squares; i++) {
+					noStroke();
+					fill(map(i, 0, squares, 0, 255), 255, 255);
+					float x = map(i, 0, squares, 9, width); // Height
+					rect(x, x, h, h);
+					rect((width-h), -x, x);
+				}
+
 				break;
 				//map(a,b,c,d,e);
 				//a = inputvalue
@@ -74,6 +84,7 @@ public class Loops extends PApplet
 				// d, e 0 - start and and of the end range
 
 				// map(-2, 10, 90, 200, 233);
+
 
 		}
 	}
