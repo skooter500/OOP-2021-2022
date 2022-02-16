@@ -43,6 +43,9 @@ Resources
 ### Lecture
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EdUrk_7Hf3hDvXYbJuwQcvkBrEkzVq0Wrn9aJQk5XL2jcw?e=mWbyOj)
 
+### Lab
+Keep working on the exercises from last week. If you have them all completed, you can try out [this lab about using git and github](gitlab.md).
+
 ## Week 3
 
 ### Lab
