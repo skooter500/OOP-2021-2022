@@ -4,8 +4,6 @@ import processing.core.PApplet;
 
 public class Loops extends PApplet
 {
-
-
 	int mode = 0;
 
 	public void settings()
@@ -48,6 +46,7 @@ public class Loops extends PApplet
 		return d + ((howFar / r1) * r2);
 	}
 
+	float offset =0;
 	
 	public void draw()
 	{
@@ -55,6 +54,7 @@ public class Loops extends PApplet
 		switch(mode)	
 		{
 			case 0:
+			{
 				background(0);
 				int bars = (int) (mouseX / 20.0f);
 				float w = width / (float)bars;	
@@ -65,17 +65,21 @@ public class Loops extends PApplet
 					rect(map(i, 0, bars, 0, 500), 0, w, height);
 				}
 				break;
+			}
+
 			case 1:
+			{
 				background(0);
 				int squares = (int) (mouseX / 20.0f); // Mouse position determines size of squares
 				float h = width / (float) squares; // Number of squares going across
 				for (int i=0; i<squares; i++) {
 					noStroke();
 					fill(map(i, 0, squares, 0, 255), 255, 255);
-					float x = map(i, 0, squares, 9, width); // Height
+					float x = map(i, 0, squares, 0, width); // Height
 					rect(x, x, h, h);
 					rect((width-h), -x, x, h, h);
 				}
+			} // Gives it scope; making all variables localised
 
 				break;
 				//map(a,b,c,d,e);
@@ -84,6 +88,39 @@ public class Loops extends PApplet
 				// d, e 0 - start and and of the end range
 
 				// map(-2, 10, 90, 200, 233);
+
+			case 2: // Row of circles
+			{
+				// background(); Set white background
+				int circles = (int) (mouseX/20.0f);
+				float d = width / (float) circles; // Diameter
+
+				for (int i=0; i<circles; i++) {
+					noStroke();
+					fill(map(i, 0, circles, 0, 255), 255, 255);
+					circle(map(i, 0, circles-1, d/2, width-(d-2.0f)),height/2, d);
+				}
+			} // Scope; localises variables
+
+			case 3: // Rows of circles
+			{
+				background(255); // Set white background
+				int circles = (int) (mouseX/20.0f);
+				offset += mouseY; // Changes colour as mouse move up and down the screen
+				float d = width / (float) circles; // Diameter
+
+				for (int j=0; j<circles; j++) {
+					for (int i=0; i<circles; i++) {
+						noStroke();
+						float c = map((i+j+offset), 0, circles*2, 0, 255)%256; // Cycle throughout the 255 range
+						fill(c, 255, 255);
+						float x = map(i, 0, circles-1, d/2.0f, width-(d/2.0f));
+						fill(map(i, 0, circles, 0, 255), 255, 255);
+						float y = map(i, 0, circles-1, d/2.0f, width-(d/2.0f));
+						circle(x, y, d);
+					}
+				}
+			} // Scope; localises variables
 
 
 		}
