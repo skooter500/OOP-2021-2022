@@ -1,7 +1,5 @@
 package ie.tudublin;
 
-import java.util.ArrayList;
-
 import processing.core.PApplet;
 
 public class Arrays extends PApplet {
@@ -16,6 +14,15 @@ public class Arrays extends PApplet {
 
     int minIndex = 0;
     int maxIndex  = 0;
+
+    int mode = 0;
+
+    public void keyPressed() {
+		if (key >= '0' && key <= '9') {
+			mode = key - '0';
+		}
+		println(mode);
+	}
         
 
     public void settings()
@@ -65,22 +72,30 @@ public class Arrays extends PApplet {
 
     public void draw()
     {
-
-        background(0);
-        colorMode(HSB);
-        float w = width / (float)rainfall.length;
-        noStroke();
-        for(int i = 0 ; i < rainfall.length ; i ++)
-        {
-            float x = map(i, 0, rainfall.length, 0, width);
-            int c = (int)map(i, 0, rainfall.length, 0, 255);
-            fill(c, 255, 255);
-            float h = map(rainfall[i], 0, rainfall[maxIndex], 0, -height);
-            rect(x, height, w, h);
-            fill(255);
-            textAlign(CENTER, CENTER);
-            text(months[i], x + (w / 2), height - 50);
-        }
-    }
-    
+        switch (mode) {
+			case 0:
+                background(0);
+                colorMode(HSB);
+                float w = width / (float)rainfall.length;
+                noStroke();
+                for(int i = 0 ; i < rainfall.length ; i ++)
+                {
+                    float x = map(i, 0, rainfall.length, 0, width);
+                    int c = (int)map(i, 0, rainfall.length, 0, 255);
+                    fill(c, 255, 255);
+                    float h = map(rainfall[i], 0, rainfall[maxIndex], 0, -height);
+                    rect(x, height, w, h);
+                    fill(255);
+                    textAlign(CENTER, CENTER);
+                    text(months[i], x + (w / 2), height - 50);
+                }
+                break;
+            case 1:
+                // Put your code here!
+                break;
+            case 2:
+                //
+                break;
+            }        
+    }    
 }
