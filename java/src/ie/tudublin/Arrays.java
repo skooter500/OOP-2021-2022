@@ -74,6 +74,7 @@ public class Arrays extends PApplet {
     {
         switch (mode) {
 			case 0:
+            {
                 background(0);
                 colorMode(HSB);
                 float w = width / (float)rainfall.length;
@@ -90,11 +91,49 @@ public class Arrays extends PApplet {
                     text(months[i], x + (w / 2), height - 50);
                 }
                 break;
+            }
             case 1:
-                // Put your code here!
+            {
+                background(0);
+                float border = width * 0.1f;
+                // Draw the axis
+                stroke(255);
+                line(border, border, border, height - border);
+                line(border, height - border, width - border, height - border);
+                for(int i = 0 ; i <= 120; i += 10)
+                {
+                    float y = map(i, 0, 120, height - border, border);
+                    line(border - 5, y, border, y);
+                    fill(255);
+                    textAlign(CENTER, CENTER);
+                    text(i, border / 2, y);
+                }
+                float w = (width - (border * 2.0f)) / (float)rainfall.length;
+                
+                for(int i = 0 ; i < rainfall.length; i ++)
+                {
+                    float x = map(i, 0, rainfall.length, border, width-border);
+                    float c = map(i, 0, rainfall.length, 0, 255);
+                    stroke(255);
+                    fill(c, 255, 255);
+                    float h = map(rainfall[i], 0, 120, 0, -height + (border * 2.0f)); 
+                    rect(x, height-border, w, h);
+                    fill(255);
+                    text(months[i], x + (w / 2), height - (border / 2));
+    
+                }
                 break;
+            }
             case 2:
-                //
+                background(0);
+                float r = width * 0.3f;
+                float cx = width / 2;
+                float cy = height / 2;
+                stroke(255);
+                noFill();
+                circle(cx, cy, r * 2.0f);
+                arc()
+
                 break;
             }        
     }    
