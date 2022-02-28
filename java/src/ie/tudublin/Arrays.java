@@ -126,13 +126,34 @@ public class Arrays extends PApplet {
             }
             case 2:
                 background(0);
-                float r = width * 0.3f;
+                float r = mouseX;
                 float cx = width / 2;
                 float cy = height / 2;
                 stroke(255);
                 noFill();
-                circle(cx, cy, r * 2.0f);
-                arc()
+                //circle(cx, cy, r * 2.0f);
+                float tot = 0;
+                for(float f:rainfall)
+                {
+                    tot += f;
+                }
+                float start = 0;
+                for(int i = 0 ; i < rainfall.length ; i ++)
+                {
+                    float val = map(rainfall[i], 0, tot, 0, TWO_PI);
+                    float c = map(i, 0, rainfall.length, 0, 255);
+                    noStroke();
+                    fill(c, 255, 255);
+                    arc(cx, cy, r * 2, r * 2, start, start + val, PIE);
+                    
+                    float theta = start + (val * 0.5f);
+                    float x = cx + cos(theta) * (r * 1.2f);
+                    float y = cy + sin(theta) * (r * 1.2f);
+                    fill(255);
+                    text(months[i], x, y);
+                    start = start + val;
+                    
+                }
 
                 break;
             }        
