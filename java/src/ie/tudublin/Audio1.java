@@ -13,6 +13,7 @@ public class Audio1 extends PApplet
     AudioInput ai;
     AudioBuffer ab;
 
+
     public void settings()
     {
         size(1024, 500);

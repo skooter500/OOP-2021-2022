@@ -39,6 +39,9 @@ Resources
 - https://github.com/skooter500/OOP_Labtest1_2017_Starter
 - https://github.com/skooter500/OOP-LabTest1-2016
 
+## Week 6 - Audio
+- [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EVB4djPnFFtGhai0WdDX6fQBd9bUDVTcj-9jVwMzGCi0TA?e=xqOyVj)
+
 ## Week 5 - Arrays
 ### Lecture
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/Edw1fm7vefhMhbZWVnyJQT4BBfXQPzTg2soHMppqoV51BQ?e=PpPRit)
