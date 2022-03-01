@@ -45,6 +45,7 @@ Resources
 ## Week 5 - Arrays
 ### Lecture
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/Edw1fm7vefhMhbZWVnyJQT4BBfXQPzTg2soHMppqoV51BQ?e=PpPRit)
+- [Recording of the Tutorial](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/ETzVZfvOpPlFkkY1DOatswcBnXHqOdvz8izb37PwlJIwMQ?e=wi4SVu)
 
 ### Lab
 ### Learning Outcomes
@@ -85,8 +86,6 @@ When you are doing these, make sure your code works even if you change the size 
 	```
 
 Don't forget to update your forks of the repository from my master branch and create a new branch for your work today!!
-
-
 
 ## Week 4 - Loops
 ### Lecture
