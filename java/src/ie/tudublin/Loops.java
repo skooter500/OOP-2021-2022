@@ -100,24 +100,26 @@ public class Loops extends PApplet {
 				}
 			case 4:
 				background(0);
-				colorMode(RGB);
-				stroke(255);	
+				stroke(255, 255, 255);	
 				float cx = width / 2;
 				float cy = height / 2;	
 				float radius = 200;		
-				int sides = (int)map(mouseX, 1, width, 2, 10);
-				for(int i = 1 ; i <= sides ; i ++)
+				int points = (int)map(mouseX, 1, width, 5, 20);
+				int sides = points * 2;
+				float px = cx;
+				float py = cy - radius; 
+				for(int i = 0 ; i <= sides ; i ++)
 				{
-					float theta1 = map(i - 1, 0, sides, 0, TWO_PI);
-					float x1 = cx + sin(theta1) * radius;
-					float y1 = cy + cos(theta1) * radius;
-
-					float theta2 = map(i, 0, sides, 0, TWO_PI);
-					float x2 = cx + sin(theta2) * radius;
-					float y2 = cy + cos(theta2) * radius;
-					line(x1, y1, x2, y2);
-
+					float r = (i % 2 == 0) ? radius : radius / 2; 
+					// float r = radius;
+					float theta = map(i, 0, sides, 0, TWO_PI);
+					float x = cx + sin(theta) * r;
+					float y = cy - cos(theta) * r;
+					
 					//circle(x, y, 20);
+					line(px, py, x, y);
+					px = x;
+					py = y;
 				}
 
 				// map(a,b,c,d,e);
