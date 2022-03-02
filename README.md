@@ -40,7 +40,31 @@ Resources
 - https://github.com/skooter500/OOP-LabTest1-2016
 
 ## Week 6 - Audio
+
+### Lecture
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EVB4djPnFFtGhai0WdDX6fQBd9bUDVTcj-9jVwMzGCi0TA?e=xqOyVj)
+
+### Lab
+### Learning Outcomes
+- Practice for loops
+- Demonstrate an understanding of how digital audio works
+- Practice computational thinking and problem solving
+- Have fun making beautiful things 
+
+Update your forks and have a look at Audio1.java this is the code we wrote on Monday with some modifications. Checkout the ```keyPressed``` function. This starts and restarts the audio file when you press space. Also it sets the value of the ```which``` variable to be the numbers 0-5 when you press the appropriate key on the keyboard. If your computer wont play the audio file for some reason,you can uncomment the code to read audio from the microphone instead or use a .wav file instead.
+
+Also the code use the MP3 file in the repo and also the visualisation uses a buffer where each element is lerped. This is similar to how we lerped the amplitude on Monday
+
+Ok now check out this video of 5 visuals you can make today. Pressing the keys 0-4 on the keyboard should change the visual in your sketch.
+
+[![YouTube](http://img.youtube.com/vi/xF7VrXZqLko/0.jpg)](https://www.youtube.com/watch?v=xF7VrXZqLko)
+
+- 0 - The wavy lines visual - To make this, flip the order of the x2, y2 parameters on the line
+- 1 - The waveform
+- 2 - The waveform drawn down the 4 sides of the screen
+- 3 - The circle - Use the lerped amplitude to control the size of the circle
+- 4 - The square - Again use the lerped amplitude to control the size of the square. You can also use rectMode(CENTER) to make the x and y parameters of the rect function determine the center of the rect rather than the coordinates of the top left corner
+- 5 - There is no visual associated with 5 in the video, so come up with your own!
 
 ## Week 5 - Arrays
 ### Lecture
