@@ -24,7 +24,14 @@ public class Audio1 extends PApplet
 		if (key >= '0' && key <= '9') {
 			mode = key - '0';
 		}
-		println(mode);
+		if (keyCode == ' ') {
+            if (ap.isPlaying()) {
+                ap.pause();
+            } else {
+                ap.rewind();
+                ap.play();
+            }
+        }
 	}
 
     public void settings()
