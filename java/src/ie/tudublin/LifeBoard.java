@@ -27,6 +27,11 @@ public class LifeBoard {
         }
     }
 
+    public boolean isAlive(int row, int col)
+    {
+
+    }
+
     public void render()
     {
         pa.background(0);
