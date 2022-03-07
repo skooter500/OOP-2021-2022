@@ -35,7 +35,36 @@ public class LifeBoard {
         // 2 -3 - Survives
         // if a dead cell has 3 neighbours - comes to life
 
-        
+        for(int row = 0 ; row < size ; row ++)
+        {
+            for (int col = 0 ; col < size ; col ++)
+            {
+                int count = countCellsAround(row, col);
+
+                if (isAlive(row, col))
+                {
+                    if (count == 2 || count == 3)
+                    {
+                        next[row][col] = true;
+                    }
+                    else
+                    {
+                        next[row][col] = false;
+                    }
+                }
+                else
+                {
+                    if (count == 3)
+                    {
+                        next[row][col] = true;
+                    }
+                    else
+                    {
+                        next[row][col] = false;
+                    }
+                }
+            }
+        }
 
         boolean[][] temp;
         temp = board;
