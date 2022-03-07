@@ -27,9 +27,25 @@ public class LifeBoard {
         }
     }
 
+    public int countCellsAround(int row, int col)
+    {
+        int count = 0;
+
+        // Your bit goes here!
+
+        return count;
+    }
+
     public boolean isAlive(int row, int col)
     {
-
+        if (row >= 0 && row < size && col >= 0 && col < size)
+        {
+            return board[row][col]; 
+        }
+        else
+        {
+            return false;
+        }
     }
 
     public void render()
