@@ -39,6 +39,10 @@ Resources
 - https://github.com/skooter500/OOP_Labtest1_2017_Starter
 - https://github.com/skooter500/OOP-LabTest1-2016
 
+## Week 7 - Conways Game of Life
+### Lecture
+- [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EVSYi7mI1y9Hgjgq3ibl4yEBRBEUzJyWLEiwIoLWkmR21g?e=Z6Bidf)
+
 ## Week 6 - Audio
 
 ### Lecture
