@@ -33,6 +33,20 @@ public class LifeBoard {
 
         // Your bit goes here!
 
+        for(int i = row - 1 ; i <= row + 1 ; i ++)
+        {
+            for(int j = col -1 ; j <= col + 1; j ++)
+            {
+                if (! (i == row && j == col))
+                {
+                    if (isAlive(i, j))
+                    {
+                        count ++;
+                    }
+                }
+            }
+        }
+
         return count;
     }
 
