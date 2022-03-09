@@ -73,6 +73,8 @@ If you want to learn more about cellular automata check out:
 - [A New Kind of Science](https://writings.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/)
 
 
+
+
 ## Week 6 - Audio
 
 ### Lecture
