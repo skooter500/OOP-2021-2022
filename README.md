@@ -43,6 +43,36 @@ Resources
 ### Lecture
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EVSYi7mI1y9Hgjgq3ibl4yEBRBEUzJyWLEiwIoLWkmR21g?e=Z6Bidf)
 
+### Lab
+
+Your game of life should look like this (click the image for a video):
+
+[![YouTube](http://img.youtube.com/vi/SmH2r_ChmFY/0.jpg)](https://www.youtube.com/watch?v=SmH2r_ChmFY)
+
+Some extra things you can implement you can see in the video:
+
+- Increase size and change the size of the screen and see what effect this has on the simulation 
+- Press space to pause and resume the simulation
+- Press 1 to randomise the board again
+- Press 2 to clear the board
+- Press 3 to draw a cross shape and see how it evolves
+- Drag the mouse across the window to set cells at the mouse position to be alive.
+
+Some extra things you can implement that are not in the video
+
+- Draw a glider at the mouse position. This is starting pattern that will evolve a pattern that walks across the screen
+- Draw a Gosper Gun at the mouse position. This is a starting pattern that will spawn creatures indefinitely
+
+You can read more about these starting patterns and others in [this wikipedia article](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) and see examples in this video:
+
+[![YouTube](http://img.youtube.com/vi/HMYh4jKdtNU/0.jpg)](https://www.youtube.com/watch?v=HMYh4jKdtNU)
+
+If you want to learn more about cellular automata check out: 
+
+- [The Nature of Code](https://natureofcode.com/)
+- [A New Kind of Science](https://writings.stephenwolfram.com/2017/05/a-new-kind-of-science-a-15-year-view/)
+
+
 ## Week 6 - Audio
 
 ### Lecture
