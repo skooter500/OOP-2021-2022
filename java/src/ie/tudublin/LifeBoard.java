@@ -95,6 +95,14 @@ public class LifeBoard {
         return count;
     }
 
+    public void setAlive(int row, int col, boolean alive)
+    {
+        if (row >= 0 && row < size && col >= 0 && col < size)
+        {
+            board[row][col] = alive;
+        }
+    }
+
     public boolean isAlive(int row, int col)
     {
         if (row >= 0 && row < size && col >= 0 && col < size)
