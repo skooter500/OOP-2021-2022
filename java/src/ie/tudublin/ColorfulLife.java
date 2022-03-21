@@ -93,7 +93,7 @@ public class ColorfulLife extends PApplet {
         }
         else
         {
-            return random(255);
+            return -1;
         }        
     }
 
@@ -229,7 +229,7 @@ public class ColorfulLife extends PApplet {
         */
         println(countNeighbours(0, 2));
 
-        cellSize = width / (size);
+        cellSize = width / (float) size;
 
         frameRate(20);
         
@@ -277,6 +277,14 @@ public class ColorfulLife extends PApplet {
     }
 
     public void mouseDragged()
+    {
+        // This method gets called automatically when the mouse is dragged across the screen
+        int row = (int) map(mouseY, 0, height, 0, size);
+        int col = (int) map(mouseX, 0, width, 0, size);
+        setCell(board, row, col, random(255));
+    }
+
+    public void mousePressed()
     {
         // This method gets called automatically when the mouse is dragged across the screen
         int row = (int) map(mouseY, 0, height, 0, size);
