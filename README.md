@@ -39,6 +39,9 @@ Resources
 - https://github.com/skooter500/OOP_Labtest1_2017_Starter
 - https://github.com/skooter500/OOP-LabTest1-2016
 
+## Week 8 - Digital Audio - Part 2
+- [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/Eete7lQb5h9GhcLM6Ln_xC4B7WS3JPl-f4Mn0XTBLv6ydA?e=sid5gi)
+
 ## Week 7 - Conways Game of Life
 ### Lecture
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EVSYi7mI1y9Hgjgq3ibl4yEBRBEUzJyWLEiwIoLWkmR21g?e=Z6Bidf)
