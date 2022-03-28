@@ -1,5 +1,6 @@
 package ie.tudublin;
 
+import processing.core.PApplet;
 import processing.data.TableRow;
 
 public class Star
@@ -86,6 +87,20 @@ public class Star
         this.absMag = absMag;
     }
 
-    
-    
+    public void render(StarMap pa)
+    {
+        float x = PApplet.map(xG, -5, 5, pa.border, pa.width - pa.border);
+        float y = PApplet.map(yG, -5, 5, pa.border, pa.height - pa.border);
+
+        pa.stroke(255, 255, 0);
+        pa.line(x, y -5, x, y + 5);
+        pa.line(x-5, y, x + 5, y);
+        pa.stroke(255, 0, 0);
+        pa.noFill();
+        pa.circle(x, y, absMag);
+        pa.fill(255);
+        pa.textSize(16);
+        pa.textAlign(PApplet.LEFT, PApplet.CENTER);
+        pa.text(displayName, x + 20, y);
+    }
 }
