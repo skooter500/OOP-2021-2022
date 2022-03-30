@@ -39,6 +39,13 @@ Resources
 - https://github.com/skooter500/OOP_Labtest1_2017_Starter
 - https://github.com/skooter500/OOP-LabTest1-2016
 
+## Week 9 - Loading and visualising a dataset 
+- [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EcgrS0Sh8v1CgiN9-HHlXBkBs7LHTxG8L08S1HLac0QKfQ?e=9Vxemq)
+- [Link to the original lab test](https://github.com/skooter500/OOP-LabTest1-2016)
+
+### Lab
+- Complete the lab test from Monday's class!
+
 ## Week 8 - Digital Audio - Part 2
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/Eete7lQb5h9GhcLM6Ln_xC4B7WS3JPl-f4Mn0XTBLv6ydA?e=sid5gi)
 
