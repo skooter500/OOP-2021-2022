@@ -45,6 +45,7 @@ Resources
 
 ### Lab
 - Complete the lab test from Monday's class!
+- Try out [last years test](https://github.com/skooter500/OOP-Test-2021-Starter)
 
 ## Week 8 - Digital Audio - Part 2
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/Eete7lQb5h9GhcLM6Ln_xC4B7WS3JPl-f4Mn0XTBLv6ydA?e=sid5gi)
