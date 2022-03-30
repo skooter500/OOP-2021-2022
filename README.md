@@ -39,7 +39,7 @@ Resources
 - https://github.com/skooter500/OOP_Labtest1_2017_Starter
 - https://github.com/skooter500/OOP-LabTest1-2016
 
-## Week 9 - Loading and visualising a dataset 
+## Week 10 - Loading and visualising a dataset 
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EcgrS0Sh8v1CgiN9-HHlXBkBs7LHTxG8L08S1HLac0QKfQ?e=9Vxemq)
 - [Link to the original lab test](https://github.com/skooter500/OOP-LabTest1-2016)
 
@@ -47,7 +47,7 @@ Resources
 - Complete the lab test from Monday's class!
 - Try out [last years test](https://github.com/skooter500/OOP-Test-2021-Starter)
 
-## Week 8 - Digital Audio - Part 2
+## Week 9 - Digital Audio - Part 2
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/Eete7lQb5h9GhcLM6Ln_xC4B7WS3JPl-f4Mn0XTBLv6ydA?e=sid5gi)
 
 ### Lab
@@ -86,8 +86,10 @@ Here is a video of what your finished program might look like:
 
 [![YouTube](http://img.youtube.com/vi/bfLVzCD2UC0/0.jpg)](https://youtu.be/bfLVzCD2UC0)
 
+## Week 8 - Review Week
+- No classes
 
-## Week 7 - Conways Game of Life
+## Week 7 - Conway's Game of Life
 ### Lecture
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EVSYi7mI1y9Hgjgq3ibl4yEBRBEUzJyWLEiwIoLWkmR21g?e=Z6Bidf)
 
