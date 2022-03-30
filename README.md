@@ -39,7 +39,7 @@ Resources
 - https://github.com/skooter500/OOP_Labtest1_2017_Starter
 - https://github.com/skooter500/OOP-LabTest1-2016
 
-## Week 10 - Loading and visualising a dataset 
+## Week 10 - Loading and visualising a dataset - Star Map example
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EcgrS0Sh8v1CgiN9-HHlXBkBs7LHTxG8L08S1HLac0QKfQ?e=9Vxemq)
 - [Link to the original lab test](https://github.com/skooter500/OOP-LabTest1-2016)
 
