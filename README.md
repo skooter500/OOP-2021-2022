@@ -42,6 +42,77 @@ Resources
 ## Week 11 - YASC Part 1
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/Edu2JUxUJnpNk0DJum_UHIoBNnXLW71f-De16xyCEu9L-w?e=orgOaw)
 
+- [Recording of the tutorial](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EdnREXh-iZVFmXzkZY34zNABey4G2mDiORbj42WohFMkFw?e=7WhKLI)
+
+A couple of solutions to [this codingbat exercise](https://codingbat.com/prob/p105771)
+
+My solution:
+
+```Java
+public int[] evenOdd(int[] nums) {
+  int swaps = 0;
+  do
+  {
+    swaps = 0;
+   for(int i = 0 ; i < nums.length -1 ; i ++)
+   {
+     if (nums[i] % 2 != 0 && nums[i+1] % 2 == 0)
+     {
+       int temp = nums[i];
+       nums[i] = nums[i + 1];
+       nums[i+1] = temp;
+       swaps ++;
+     }
+   }
+  }
+  while (swaps > 0);
+ return nums;
+}
+```
+
+Submitted by Ho Chung:
+
+```Java
+public int[] evenOdd(int[] nums) {
+  int temp[] = new int[nums.length];
+  int start = 0;
+  int end = nums.length - 1;
+  for (int i = 0; i < nums.length; i ++){
+    if (nums[i] % 2 == 0) {
+      temp[start] = nums[i];
+      start++;
+    }
+    else {
+      temp[end] = nums[i];
+      end--;
+    }
+  }
+  return temp;
+}
+```
+
+Submitted by Christina Vargka:
+
+```Java
+public int[] evenOdd(int[] nums) {
+int counter = 0;
+int[] evods = new int[nums.length];
+for(int i = 0; i < nums.length; i++){
+if(nums[i] % 2 == 0){
+evods[counter] = nums[i];
+counter++;
+}
+}
+for(int i = 0; i < nums.length; i++){
+if(nums[i] % 2 == 1){
+evods[counter] = nums[i];
+counter++;
+}
+}
+return evods;
+}
+```
+
 ## Lab
 - Work on your assignments!
 
