@@ -45,15 +45,18 @@ Resources
 Put your Roots Down
 
 Put your roots down 
+
 Put your feet on the ground 
+
 Can you hear what she says 
+
 Are you listening? X2
 
 Sweet sound of the water,
+
 as it moves across the stones
 
-Same sound as the blood in your body
-, as it moves across your bones
+Same sound as the blood in your body, as it moves across your bones
 
 Are you listening, ooh ooh x2
 
