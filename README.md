@@ -42,23 +42,23 @@ Resources
 ## Week 12 - Bullets and singing
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EfI61WVF57xBvOptHmYxUZABZCiSBcSoLBiAGuf49cnSug?e=NE7vJx)
 
-Put your Roots Down
+  Put your Roots Down
 
-Put your roots down 
+  Put your roots down 
 
-Put your feet on the ground 
+  Put your feet on the ground 
 
-Can you hear what she says 
+  Can you hear what she says 
 
-Are you listening? X2
+  Are you listening? X2
 
-Sweet sound of the water,
+  Sweet sound of the water,
 
-as it moves across the stones
+  as it moves across the stones
 
-Same sound as the blood in your body, as it moves across your bones
+  Same sound as the blood in your body, as it moves across your bones
 
-Are you listening, ooh ooh x2
+  Are you listening, ooh ooh x2
 
 
 ## Week 11 - YASC Part 1
