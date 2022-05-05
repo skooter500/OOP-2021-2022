@@ -3,7 +3,7 @@
 
 - Fork [this starter project](https://github.com/skooter500/MusicVisuals)
 
-- [Submit Teams](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2ou3qmFXqEdGlmiD1Myl3gNUN0I5VjI3RFhISk5JQzRaUkdOQTdCNEgyNy4u)
+- [Submit your final assignment](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2ou3qmFXqEdGlmiD1Myl3gNUMUw3QjE3SzFEVTc4VzZCUTVXTkVBNkQ0Si4u)
 
 "An audio visual experience"
 

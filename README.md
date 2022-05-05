@@ -21,6 +21,7 @@ Resources
 # Assessments
 
 - [Assignments](assignments.md)
+- [Submit your final assignment](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2ou3qmFXqEdGlmiD1Myl3gNUMUw3QjE3SzFEVTc4VzZCUTVXTkVBNkQ0Si4u)
 
 - Week 5 - Teams Submission
 - 27 April - Lab Test 20% 
@@ -40,6 +41,10 @@ Resources
 - https://github.com/skooter500/OOP-LabTest1-2016
 
 ## Week 12 - Bullets and singing
+
+### Lab
+- [Lab Test](https://github.com/skooter500/OOP-Test-2022-Starter)
+
 - [Recording of the class](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EfI61WVF57xBvOptHmYxUZABZCiSBcSoLBiAGuf49cnSug?e=NE7vJx)
 
   Put your Roots Down
