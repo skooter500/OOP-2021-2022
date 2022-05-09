@@ -42,6 +42,9 @@ Resources
 
 ## Week 12 - Bullets and singing
 
+### Tutorial
+- [Video of the Tutorial](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EQkrjC3VHYxEq5xRr_5KKHoB1-MqhIoHUID305zkc8KbZw?e=e5ixaH)
+
 ### Lab
 - [Lab Test](https://github.com/skooter500/OOP-Test-2022-Starter)
 
