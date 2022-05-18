@@ -28,6 +28,9 @@ Resources
 - 4th May Assignmemnt Submission - 30%
 - End of Year exam - 50%
 
+# Past Papers
+- [Past Papers](downloads/pastpapers.zip)
+
 # Last years course
 - https://github.com/skooter500/OOP-2020-2021
 
