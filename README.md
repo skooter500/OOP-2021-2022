@@ -1,5 +1,8 @@
 # DT228/DT282 Object Oriented Programming 2021-2022
 
+# Past Papers
+- [Past Papers](downloads/pastpapers.zip)
+
 # Teams Links for online classes:
 
 - [Join the class on Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTE2YWIwOTAtNmVmOS00MmIyLWIzYjYtZDBmN2QzYzI2Y2Ix%40thread.v2/0?context=%7b%22Tid%22%3a%22766317cb-e948-4e5f-8cec-dabc8e2fd5da%22%2c%22Oid%22%3a%2261aab78b-a857-4647-9668-83d4cca5de03%22%7d)
@@ -28,8 +31,7 @@ Resources
 - 4th May Assignmemnt Submission - 30%
 - End of Year exam - 50%
 
-# Past Papers
-- [Past Papers](downloads/pastpapers.zip)
+
 
 # Last years course
 - https://github.com/skooter500/OOP-2020-2021
@@ -43,7 +45,10 @@ Resources
 - https://github.com/skooter500/OOP_Labtest1_2017_Starter
 - https://github.com/skooter500/OOP-LabTest1-2016
 
+
 ## Week 12 - Bullets and singing
+
+- [Last years Week 12 - Interface, bullets etc etc](https://www.youtube.com/watch?v=QVWeU7rFlo4)
 
 ### Tutorial
 - [Video of the Tutorial](https://tudublin-my.sharepoint.com/:v:/g/personal/bryan_duggan_tudublin_ie/EQkrjC3VHYxEq5xRr_5KKHoB1-MqhIoHUID305zkc8KbZw?e=e5ixaH)
