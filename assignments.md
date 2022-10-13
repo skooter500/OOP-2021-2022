@@ -25,9 +25,9 @@ Make a youtube video demonstrating your assignment and write a document in markd
 
 - https://www.youtube.com/playlist?list=PL1n0B6z4e_E6jErrS0ScSCaVrN7KV729x
 
-- https://www.youtube.com/watch?v=TY6Wv9lr72A
+[![YouTube](http://img.youtube.com/vi/TY6Wv9lr72A/0.jpg)](http://www.youtube.com/watch?v=TY6Wv9lr72A)
 
-- https://www.youtube.com/watch?v=cW8s5i9dmqA
+[![YouTube](http://img.youtube.com/vi/cW8s5i9dmqA/0.jpg)](http://www.youtube.com/watch?v=cW8s5i9dmqA)
 
 Marking Scheme:
 
