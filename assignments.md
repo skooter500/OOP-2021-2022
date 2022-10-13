@@ -7,9 +7,11 @@
 
 "An audio visual experience"
 
-You should pick a song or piece of music that you like . I expect you to have to do self directed learning on the project and come up with ideas and code that we haven't done in the class.
+Pick a song or piece of music and make a visualisation. I expect you to have to do self directed learning on the project and come up with ideas and code that we haven't done in the class. You can work in a team of up to 3 people.
 
-You need to make a youtube video demonstrating your assignment and write a document in markdown format with the following sections:
+-[Submit Teams by 14 Feb](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2ou3qmFXqEdGlmiD1Myl3gNUN0I5VjI3RFhISk5JQzRaUkdOQTdCNEgyNy4u)
+
+Make a youtube video demonstrating your assignment and write a document in markdown format with the following sections:
 
 - What your assignment does
 - What the controls are
@@ -21,6 +23,10 @@ You need to make a youtube video demonstrating your assignment and write a docum
 - https://www.youtube.com/playlist?list=PL1n0B6z4e_E7I2bIWWpH8NAa6kPx95sw5
 
 - https://www.youtube.com/playlist?list=PL1n0B6z4e_E6jErrS0ScSCaVrN7KV729x
+
+- https://www.youtube.com/watch?v=TY6Wv9lr72A
+
+- https://www.youtube.com/watch?v=cW8s5i9dmqA
 
 Marking Scheme:
 
@@ -40,14 +46,10 @@ Rubric
 | Pass | Something very basic that is just a small modification of the code we developed in the class. Missing documentation. Completed in the days before the submission deadline and minimal or missing documentation. |
 | Fail | Project won't compile or major issues. |
 
-Some assignments from previous years:
-
-- https://www.youtube.com/watch?v=TY6Wv9lr72A
-
-- https://www.youtube.com/watch?v=cW8s5i9dmqA
-
 Rules!
 
-- As much as possible this project should be 100% your own code. 
-- There will be a feedback session after the assignment where you will have the opportunity to get individual feedback on your submission and have your mark explained to you.
-- If you need to submit an assignment late, you can submit a PC/1 form to the exams office.
+- As much as possible this project should be 100% your own code. If you use tutorials, libraries etc etc reference them in the readme.md
+- Make regular commits to document your progress 
+- Each team member needs to make commits
+- There will be a feedback session after the assignment where you will have the opportunity to get individual feedback on your submission and have your mark explained to you
+- If you need to submit an assignment late, you can submit a PC/1 form to the exams office
