@@ -16,7 +16,8 @@ Make a youtube video demonstrating your assignment and write a document in markd
 - What your assignment does
 - What the controls are
 - How to make it run
-- A list of the stuff you are most proud of. This will help me to grade the assignments.
+- References
+- A list of the stuff you are most proud of. This will help me to grade the assignments
 
  Check out these previous assignments for inspiration:  
 
